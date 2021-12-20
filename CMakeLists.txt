@@ -13,7 +13,7 @@ project(Task4)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${Task4_SOURCE_DIR}/bin)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${Task4_SOURCE_DIR}/lib)
 
-add_subdirectory(/home/runner/work/tetss/tetss/usr/src/gtest)
+
 
 
 add_subdirectory(B)
